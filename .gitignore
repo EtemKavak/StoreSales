@@ -1,0 +1,8 @@
+rossmann/
+fastai/
+.ipy*
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+
